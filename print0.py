@@ -1,0 +1,1 @@
+#  armstrong, palindrone,prime :homework
